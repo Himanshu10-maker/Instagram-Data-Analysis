@@ -5,7 +5,7 @@ Codebasics Virtual Internship Challenge | AtliQ Technologies
 This project analyzes a Tech Influencer's Instagram activity using SQL for data extraction and Power BI for visualization. The goal was to derive actionable insights to optimize content strategy and engagement.
 
 # LinkedIn Post: Read my summary here
-📹 
+📹 https://www.linkedin.com/posts/himanshu-yaduvanshi_sql-dataanalytics-instagraminsights-activity-7329047794629918720-yeTR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAChbic4BEPZR4e5xsne-FfY0ccvE7CUmF4Y
 
 # Technologies Used
 Database: MySQL (via MySQL Workbench)
